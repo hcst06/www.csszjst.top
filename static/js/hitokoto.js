@@ -1,0 +1,1 @@
+function hitokoto(){document.write('我的眼泪留了下来，灌溉了下面柔软的小草，不知道来年，会不会开出一地的记忆和忧愁。');}
