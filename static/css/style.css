@@ -1449,4 +1449,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
-
+.logo {
+    position: fixed; /* 设置为固定定位 */
+    top: 10px; /* 距离顶部的距离 */
+    left: 10px; /* 距离左侧的距离 */
+}
